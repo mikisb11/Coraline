@@ -1,3 +1,3 @@
 ## Coraline
 
-*Version finalizada
+* Version finalizada
